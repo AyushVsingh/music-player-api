@@ -1,1 +1,3 @@
-# music-player-api
+# NodeJS API
+
+### This is a Music API builted with Nodejs  
